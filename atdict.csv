@@ -1,0 +1,9 @@
+Column Name,Data Type,Description
+Study Title,object,Trial title
+Study Status,object,Current status of trial
+Conditions,object,Disease  trial is studying
+Sponsor,object,who sponsored th trial
+Enrollment,float,how many participants
+Study Design,object,type of study build
+Locations,object,locations studied
+Treatment,object,alternative therapy used

@@ -1,0 +1,3 @@
+Column Name,Data Type,Description
+Cause name,object,natural cause of death
+Total Deaths,integer,amount of people that died from cause of death
